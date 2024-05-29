@@ -1,0 +1,13 @@
+# github.com/axgle/mahonia v0.0.0-20180208002826-3358181d7394
+## explicit
+github.com/axgle/mahonia
+# github.com/veqryn/go-email v0.0.0-20240310084539-bc822271db61
+## explicit
+github.com/veqryn/go-email/email
+# golang.org/x/text v0.15.0
+## explicit; go 1.18
+golang.org/x/text/encoding
+golang.org/x/text/encoding/internal
+golang.org/x/text/encoding/internal/identifier
+golang.org/x/text/encoding/simplifiedchinese
+golang.org/x/text/transform

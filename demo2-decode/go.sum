@@ -1,0 +1,6 @@
+github.com/axgle/mahonia v0.0.0-20180208002826-3358181d7394 h1:OYA+5W64v3OgClL+IrOD63t4i/RW7RqrAVl9LTZ9UqQ=
+github.com/axgle/mahonia v0.0.0-20180208002826-3358181d7394/go.mod h1:Q8n74mJTIgjX4RBBcHnJ05h//6/k6foqmgE45jTQtxg=
+github.com/veqryn/go-email v0.0.0-20240310084539-bc822271db61 h1:nAqnfye4RkKGGMVGaWrg/USsTXQZKzlZgbolQye8two=
+github.com/veqryn/go-email v0.0.0-20240310084539-bc822271db61/go.mod h1:/wkXUpcdIFR3mp0fMes97u0UtjtbrdJ9WbBZ1IjsfEc=
+golang.org/x/text v0.15.0 h1:h1V/4gjBv8v9cjcR6+AR5+/cIYK5N/WAgiv4xlsEtAk=
+golang.org/x/text v0.15.0/go.mod h1:18ZOQIKpY8NJVqYksKHtTdi31H5itFRjB5/qKTNYzSU=
